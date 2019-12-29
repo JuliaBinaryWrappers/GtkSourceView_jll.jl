@@ -1,0 +1,113 @@
+[[GtkSourceView]]
+arch = "armv7l"
+git-tree-sha1 = "52e21887d1bda41052d2191cc3db6d4d6a595243"
+libc = "glibc"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "804a372a855dfdd9af7339be90dc3efedd33aabca8edef33ba7222a1113b3914"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.arm-linux-gnueabihf.tar.gz"
+[[GtkSourceView]]
+arch = "x86_64"
+git-tree-sha1 = "49d922269406fd2eb8be9f191e286aeb21470dde"
+libc = "glibc"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "85833c258740a782bdaea31b799325ad2e3b8cc092d592a57054948d42d88ebc"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.x86_64-linux-gnu.tar.gz"
+[[GtkSourceView]]
+arch = "aarch64"
+git-tree-sha1 = "bd7b03ebff5f9644f61636586bd3ae0ef3917e27"
+libc = "musl"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "a9d411a97bc31a2a174153c09f0224a6ad2aeacce5e7c5db9e8c90b112c4fa5e"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.aarch64-linux-musl.tar.gz"
+[[GtkSourceView]]
+arch = "powerpc64le"
+git-tree-sha1 = "688fc14dfd2f7e514f6c168a4c359a7b14b5c3e6"
+libc = "glibc"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "02e5296e6b34c9ef06c69affc04c6c79d03e8ca02d295fc4aa2d2735b1d321f7"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.powerpc64le-linux-gnu.tar.gz"
+[[GtkSourceView]]
+arch = "x86_64"
+git-tree-sha1 = "baa5f6ede9893e48e57d587ff7ff40bfcef0e402"
+os = "macos"
+
+    [[GtkSourceView.download]]
+    sha256 = "08186e94c06ca35f66f0bafffebc565d9fd72ac40b2bf0e8ba5cfc5231846afe"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.x86_64-apple-darwin14.tar.gz"
+[[GtkSourceView]]
+arch = "x86_64"
+git-tree-sha1 = "760bf72cdd3df952dbd90d679d6cd20655929481"
+libc = "musl"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "b64221fe235950ee8a5f8e6484b052295101a8b006ccea256131b10f7de55b85"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.x86_64-linux-musl.tar.gz"
+[[GtkSourceView]]
+arch = "x86_64"
+git-tree-sha1 = "1b4982dbc71f605c26cb171ae747f9a7af5f9134"
+os = "windows"
+
+    [[GtkSourceView.download]]
+    sha256 = "d0458f153cf3a19ff49c6c2c90dfab74fc0561d73f679f7a9c1a7b4da6fb88de"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.x86_64-w64-mingw32.tar.gz"
+[[GtkSourceView]]
+arch = "i686"
+git-tree-sha1 = "793d55562e0b1e524d360731bb996cd9ba2aa35a"
+libc = "glibc"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "bbd032520f64efe84f7451d3970a506c2327b3f41a459baba2bdee416851cc18"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.i686-linux-gnu.tar.gz"
+[[GtkSourceView]]
+arch = "aarch64"
+git-tree-sha1 = "91f16afcfb5fe2f6b29a86113563c51e61166fa9"
+libc = "glibc"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "d50b53d44f12522519c0d5087574a3b1fae081acd4d53af4b12bb32e147f9846"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.aarch64-linux-gnu.tar.gz"
+[[GtkSourceView]]
+arch = "i686"
+git-tree-sha1 = "fc7d470d3de14c069778206a3a8cafb05c3395cb"
+libc = "musl"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "18747c8d6d70d69c12afa19e8258038018ef4fa1bbcdbddef8ba5731402db6bf"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.i686-linux-musl.tar.gz"
+[[GtkSourceView]]
+arch = "x86_64"
+git-tree-sha1 = "3657fa44510abcc8d7c4144f20c3d26997f801aa"
+os = "freebsd"
+
+    [[GtkSourceView.download]]
+    sha256 = "3dc931788c28082d94499f2a41f8eb01ee551bdc6955e1816ef65cfc5b2473e9"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[GtkSourceView]]
+arch = "i686"
+git-tree-sha1 = "4fc94e5918b7052094648a513057e37d2db1028f"
+os = "windows"
+
+    [[GtkSourceView.download]]
+    sha256 = "4444acc588944eee4f7bd12660b84fc75ef0ad8345f70175cc84eeb08b6804cb"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.i686-w64-mingw32.tar.gz"
+[[GtkSourceView]]
+arch = "armv7l"
+git-tree-sha1 = "b15b13e890bcea66fbc69423c764fb368fccd7a2"
+libc = "musl"
+os = "linux"
+
+    [[GtkSourceView.download]]
+    sha256 = "5bf288306f90ef59c775070c610b66a85ff49cb09d6b4df020908dd8636dbe45"
+    url = "https://github.com/JuliaBinaryWrappers/GtkSourceView_jll.jl/releases/download/GtkSourceView-v4.4.0+0/GtkSourceView.v4.4.0.arm-linux-musleabihf.tar.gz"
